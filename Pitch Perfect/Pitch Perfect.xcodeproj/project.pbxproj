@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1235B3001C3E4980000F3CAF /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1235B2FF1C3E4980000F3CAF /* RecordedAudio.swift */; };
 		12786ADC1C3CB54000953F40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12786ADB1C3CB54000953F40 /* AppDelegate.swift */; };
 		12786ADE1C3CB54000953F40 /* RecordSoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12786ADD1C3CB54000953F40 /* RecordSoundViewController.swift */; };
 		12786AE11C3CB54000953F40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12786ADF1C3CB54000953F40 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1235B2FF1C3E4980000F3CAF /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 		12786AD81C3CB54000953F40 /* Pitch Perfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pitch Perfect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12786ADB1C3CB54000953F40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		12786ADD1C3CB54000953F40 /* RecordSoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundViewController.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				12DC49D51C3D988C007723DC /* Supporting Files */,
 				12786ADB1C3CB54000953F40 /* AppDelegate.swift */,
 				12786ADD1C3CB54000953F40 /* RecordSoundViewController.swift */,
+				1235B2FF1C3E4980000F3CAF /* RecordedAudio.swift */,
 				12786ADF1C3CB54000953F40 /* Main.storyboard */,
 				12DC49D11C3D854A007723DC /* PlaySoundViewController.swift */,
 				12786AE21C3CB54000953F40 /* Assets.xcassets */,
@@ -271,6 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1235B3001C3E4980000F3CAF /* RecordedAudio.swift in Sources */,
 				12786ADE1C3CB54000953F40 /* RecordSoundViewController.swift in Sources */,
 				12DC49D21C3D854B007723DC /* PlaySoundViewController.swift in Sources */,
 				12786ADC1C3CB54000953F40 /* AppDelegate.swift in Sources */,
